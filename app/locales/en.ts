@@ -554,6 +554,17 @@ const en: LocaleType = {
           SubTitle: "Example: ",
         },
       },
+      Laozhang: {
+        ApiKey: {
+          Title: "API Key",
+          SubTitle: "Use a custom Laozhang API Key",
+          Placeholder: "Laozhang API Key",
+        },
+        Endpoint: {
+          Title: "Endpoint Address",
+          SubTitle: "Example: ",
+        },
+      },
     },
 
     Model: "Model",
